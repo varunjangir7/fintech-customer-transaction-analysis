@@ -1,4 +1,4 @@
-# 📊 Fintech Customer And Risk Analytics Project  
+# 📊 Fintech Customer Transaction And Risk Analytics Project  
 *(SQL & Power BI | End-to-End Business Analysis)*
 
 ---
