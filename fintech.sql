@@ -121,7 +121,7 @@ JOIN customers c
 GROUP BY c.customer_id, c.city;
 select*from v_customer_value_risk_segmentation;
 
-Removed outdated files after project refactor
+
 
 
 
